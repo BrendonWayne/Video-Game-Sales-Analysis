@@ -10,6 +10,10 @@ This project analyzes **global video game sales** using a dataset of over **16,5
 - The sharp drop after 2010 may be due to **market saturation, rise of digital downloads, and industry shifts** toward free-to-play models.
 - **Early gaming years (1980s-90s) showed slow but steady growth**, which exploded in the 2000s as gaming became mainstream.
 
+![Global Sales Trend](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/global_sales_trend.png)  
+
+---
+
 ### **2️⃣ Top 10 Best-Selling Games (All Platforms Combined)**
 | Rank | Game | Global Sales (Millions) |
 |------|-------------------------------|---------------------|
@@ -30,6 +34,10 @@ This project analyzes **global video game sales** using a dataset of over **16,5
 - **Grand Theft Auto V is the best-selling non-bundled game**, maintaining strong sales over multiple console generations.
 - **Call of Duty consistently ranks high**, proving the success of the shooter genre.
 
+![Top 10 Games](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_10_games.png)  
+
+---
+
 ### **3️⃣ Best-Selling Genres**
 | Genre  | Global Sales (Millions) |
 |--------|-------------------------|
@@ -38,6 +46,10 @@ This project analyzes **global video game sales** using a dataset of over **16,5
 | Shooter | 1,026.20               |
 
 **Takeaway:** **Action games** lead in total sales, followed by **Sports** and **Shooters**. This reflects the continued dominance of franchises like **Grand Theft Auto, FIFA, and Call of Duty**.
+
+![Top Genres](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_genres.png) 
+
+---
 
 ### **4️⃣ Top 3 Best-Selling Publishers**
 | Publisher          | Global Sales (Millions) |
@@ -48,15 +60,13 @@ This project analyzes **global video game sales** using a dataset of over **16,5
 
 **Takeaway:** **Nintendo remains the top gaming publisher**, with **Electronic Arts (EA)** leading in sports franchises and **Activision dominating FPS games with Call of Duty.**
 
+![Top Publishers](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_publishers.png)  
+
+---
+
 ## 🔧 Tools Used
 - **Microsoft Excel** – Data Cleaning, Pivot Tables, Charts
 - **Dataset Source:** Kaggle (vgsales.csv)
-
-## 📸 Visualizations
-![Global Sales Trend](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/global_sales_trend.png)  
-![Top 10 Games](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_10_games.png)  
-![Top Genres](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_genres.png)  
-![Top Publishers](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_publishers.png)  
 
 ## 📂 Files in This Repository
 - `vgsales_clean.xlsx` – Cleaned dataset.
