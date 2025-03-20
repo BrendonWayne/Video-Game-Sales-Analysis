@@ -53,10 +53,10 @@ This project analyzes **global video game sales** using a dataset of over **16,5
 - **Dataset Source:** Kaggle (vgsales.csv)
 
 ## 📸 Visualizations
-![Global Sales Trend](Images/global_sales_trend.png)  
-![Top 10 Games](Images/top_10_games.png)  
-![Top Genres](Images/top_genres.png)  
-![Top Publishers](Images/top_publishers.png)  
+![Global Sales Trend](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/global_sales_trend.png)  
+![Top 10 Games](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_10_games.png)  
+![Top Genres](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_genres.png)  
+![Top Publishers](https://github.com/BrendonWayne/Video-Game-Sales-Analysis/blob/main/images/top_publishers.png)  
 
 ## 📂 Files in This Repository
 - `vgsales_clean.xlsx` – Cleaned dataset.
